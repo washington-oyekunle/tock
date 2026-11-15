@@ -1,6 +1,6 @@
-# Godot 4+ specific ignores
+# Godot editor cache
 .godot/
 /android/
 
-# Summer Engine local-only state
-.summer/local/
+# Local tool state
+.summer/

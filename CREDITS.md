@@ -1,4 +1,4 @@
-# Asset Credits
+# Credits
 
 ## 3D environment art
 
@@ -18,7 +18,7 @@
 
 ## Lighting
 
-- Golden-hour lighting rig from the Summer Library (local copy under `library/lighting/`).
+- Golden-hour lighting preset, kept locally under `library/lighting/`.
 
 The boy, the clockwork props, the spring pad and all courtyard geometry are generated in
 GDScript at runtime inside this project.
